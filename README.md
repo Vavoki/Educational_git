@@ -1,2 +1,5 @@
 # Educational_git 
-Vlad 
+* Vlad
+* Valeria
+* Vlad
+* Anton 
